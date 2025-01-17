@@ -5,3 +5,5 @@ backend/node_modules/
 # Ignore .env files for both folders
 frontend/.env
 backend/.env
+
+frontend/.env.local
